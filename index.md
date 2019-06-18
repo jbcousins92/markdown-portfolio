@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![Image of the page developer](https://avatars0.githubusercontent.com/u/51844480?s=460&v=4)
 
 <br>
 
