@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my *skills* include _**rapid learning**_, _**clear** and **concise communication**_, and _**insight** into **future trends**_
